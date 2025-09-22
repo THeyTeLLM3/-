@@ -59,7 +59,7 @@ def repeat():
 n = r.randint(0, 100)
 
 c = 0
-a = 12
+
 
 root = Tk()
 root.title("Угадайка чисел")
